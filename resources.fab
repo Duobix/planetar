@@ -1,0 +1,15 @@
+data /pbz
+    [] chr_0
+        file(pbz, "f16_logo.chr")
+    [] chr_1
+        file(pbz, "duobix_pre.chr")
+    [] chr_2
+        file(pbz, "conz2.chr")
+    [] chr_3
+        file(pbz, "title.chr")
+    [] chr_4
+        file(pbz, "ingame.png")
+    [] chr_5
+        file(pbz, "f16_logo.chr")
+audio(puf1_music, "music2.txt")
+audio(puf1_sfx)
